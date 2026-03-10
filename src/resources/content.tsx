@@ -22,11 +22,10 @@ const person: Person = {
 };
 
 const newsletter: Newsletter = {
-  display: true,
+  display: false,
   title: (
     <>
-      Subscribe to the firetime newsletter? i dont know why you would do
-      that
+      Random newsletter, it does not work, i dont know why its here
     </>
   ),
   description: <>My newsletter about literaly nothing</>,
