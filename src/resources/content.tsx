@@ -25,7 +25,7 @@ const newsletter: Newsletter = {
   display: false,
   title: (
     <>
-      Random newsletter, it does not work, i dont know why its here
+      Random newsletter, it does not work, i dont know why its here.
     </>
   ),
   description: <>My newsletter about literaly nothing</>,
