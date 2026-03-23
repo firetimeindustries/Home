@@ -68,8 +68,9 @@ const home: Home = {
   title: `${person.name}'s Site`,
   description: `Hey there, I make stuff on the internet!`,
   headline: <>Hey there, I make things on the internet!</>,
-  featured: {
-    display: true,
+  // Featured thing at the top of the homepage
+  // featured: {
+    // display: true,
     // title: (
       // <Row gap="12" vertical="center">
         // <strong className="ml-4">firetime.me</strong>{" "}
