@@ -68,20 +68,7 @@ const home: Home = {
   title: `${person.name}'s Site`,
   description: `Hey there, I make stuff on the internet!`,
   headline: <>Hey there, I make things on the internet!</>,
-  // Featured thing at the top of the homepage
-  // featured: {
-    // display: true,
-    // title: (
-      // <Row gap="12" vertical="center">
-        // <strong className="ml-4">firetime.me</strong>{" "}
-        // <Line background="brand-alpha-strong" vert height="20" />
-        // <Text marginRight="4" onBackground="brand-medium">
-          // Hey There, This is the FireTime Site!
-        // </Text>
-     // </Row>
-    // ),
-    // href: "https://firetime.me",
-  },
+  // Featured thing at the top of the homepage put here (Look at C#1 on notion in the project page)
   subline: (
     <>
       Hey, Im{" "}
