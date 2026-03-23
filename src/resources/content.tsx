@@ -70,16 +70,16 @@ const home: Home = {
   headline: <>Hey there, I make things on the internet!</>,
   featured: {
     display: true,
-    title: (
-      <Row gap="12" vertical="center">
-        <strong className="ml-4">firetime.me</strong>{" "}
-        <Line background="brand-alpha-strong" vert height="20" />
-        <Text marginRight="4" onBackground="brand-medium">
-          Back to main site, this site is still experemental
-        </Text>
-      </Row>
-    ),
-    href: "https://firetime.me",
+    // title: (
+      // <Row gap="12" vertical="center">
+        // <strong className="ml-4">firetime.me</strong>{" "}
+        // <Line background="brand-alpha-strong" vert height="20" />
+        // <Text marginRight="4" onBackground="brand-medium">
+          // Hey There, This is the FireTime Site!
+        // </Text>
+     // </Row>
+    // ),
+    // href: "https://firetime.me",
   },
   subline: (
     <>

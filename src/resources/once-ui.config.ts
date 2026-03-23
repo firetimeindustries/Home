@@ -13,8 +13,7 @@ import {
 } from "@/types";
 import { home } from "./index";
 
-// IMPORTANT: CHANGE WHEN UPDATED TO FIRETIME.ME, THIS IS USED FOR SEO
-const baseURL: string = "https://new.firetime.me";
+const baseURL: string = "https://firetime.me";
 
 const routes: RoutesConfig = {
   "/": true,
