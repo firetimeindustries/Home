@@ -25,7 +25,6 @@ export const Footer = () => {
           <Text onBackground="neutral-weak">© {currentYear} /</Text>
           <Text paddingX="4">FireTime Industries All Rights Reserved</Text>
           <Text onBackground="neutral-weak">
-            <SmartLink href="https://firetime.me">This site is still experemental</SmartLink>
           </Text>
           <Text onBackground="neutral-weak"> / This site was made entirely by human intelligence</Text>
         </Text>
